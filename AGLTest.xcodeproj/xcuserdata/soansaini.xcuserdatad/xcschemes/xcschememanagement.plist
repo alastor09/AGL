@@ -7,7 +7,25 @@
 		<key>AGLTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+		<key>AGLTestTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>16BCECE82032E74300B22153</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16BCECFC2032E75700B22153</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
